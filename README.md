@@ -1,7 +1,7 @@
 # Snacks Point - Online Food Ordering Application
 
 ## Project Overview
-A responsive web-based food ordering application built as part of the Frontend Development module. This application demonstrates modern web development practices using HTML, CSS, JavaScript, and version control with Git.
+Create a responssive web based food ordering app as part of the front end dev module. This application should demonstrate modern web app dev practices using HTM, CSS, Javascript, and version control w/ Git.
 
 ## Features
 - Admin authentication system
